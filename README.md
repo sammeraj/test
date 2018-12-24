@@ -27,7 +27,7 @@ Ensure local installation of following softwares/tools:
 
 Open your command/shell terminal
 
-Clone locally, an appropriate version of sample-test from [git](https://github.com/sammeraj/test/upload/master).
+Clone locally, an appropriate version of sample-test from [git](https://github.com/sammeraj/test).
 
 Execute standard maven command to build and install library:
 
